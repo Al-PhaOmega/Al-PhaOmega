@@ -1,4 +1,8 @@
-## Hi there 👋
+## Waddup
+
+[![language](https://img.shields.io/badge/codes_in:-lua-blue)]([https://learn.microsoft.com/ru-ru/dotnet/csharp/tour-of-csharp/overview](https://www.lua.org/))
+
+am pro
 
 <!--
 **Al-PhaOmega/Al-PhaOmega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
